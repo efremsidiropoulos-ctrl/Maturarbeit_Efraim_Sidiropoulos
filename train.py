@@ -76,7 +76,7 @@ def shutdown_system():
             subprocess.run(["shutdown", "/s", "/t", "60"])
         print(" Shutdown scheduled!")
     except:
-        print("⚠️  Manual shutdown needed")
+        print("  Manual shutdown needed")
 
 
 def calculate_accuracy(model, data_loader, device):
@@ -299,4 +299,5 @@ def train():
 if __name__ == '__main__':
     print("\n  AUTO SHUTDOWN in 60s after training!")
     input("Press ENTER...")
+
     train()
