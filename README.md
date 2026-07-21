@@ -1,5 +1,5 @@
 # Maturarbeit_Efraim_Sidiropoulos
-In diesem File wird der Aufbauu des Githubs erläutert und eine Benutzungsanleitung zugefügt.
+In diesem File wird der Aufbau des Githubs erläutert und eine Benutzungsanleitung zugefügt.
 
 Es gibt 2 Python-Files. train.py und hyperparameter_analysis.py.1 train.py ist das Trainingsskript für das Standartmodell und hyperparameter_analysis.py ist das Skript für die Durchführung der Hyperparameter Experimente. Im Code sind auch Hashtag-Kommentare zu finden, welche manche Codeblöcke erklären.
 
